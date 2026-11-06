@@ -1,13 +1,30 @@
-# Bedah Kasus 1 - Dashboard Operasional Penjualan
+Bedah Kasus 1 - Dashboard Operasional Penjualan
 
-**Nama:** Raka Ramadhan  
-**NIM:** 241051016
+Nama: Raka Ramadhan
+NIM: 241051016
 
-## Menjalankan
+Live Dashboard
 
-```bash
+Akses dashboard secara langsung melalui link berikut:
+
+"Dashboard Operasional Penjualan" (https://datasetoperasionalpenjualan.streamlit.app/)
+
+Menjalankan Aplikasi
+
 pip install -r requirements.txt
 streamlit run app.py
-```
 
-Dashboard mencakup KPI, filter tanggal/produk/kategori, bar chart, histogram, scatter plot, korelasi, tren waktu, tabel data, download CSV, dan metodologi data sintesis.
+Fitur Dashboard
+
+Dashboard mencakup beberapa fitur utama, yaitu:
+
+- KPI (Key Performance Indicators).
+- Filter berdasarkan tanggal, produk, dan kategori.
+- Bar Chart.
+- Histogram.
+- Scatter Plot.
+- Analisis korelasi.
+- Tren penjualan berdasarkan waktu.
+- Tabel data penjualan.
+- Download data dalam format CSV.
+- Metodologi penggunaan data sintesis.
